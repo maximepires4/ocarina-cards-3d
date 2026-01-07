@@ -1,0 +1,128 @@
+[
+    {
+        "name": "A",
+        "fr_name": "La",
+        "font_char": "A",
+        "staff_position": -2.0
+    },
+    {
+        "name": "A#",
+        "fr_name": "La#",
+        "font_char": "B",
+        "staff_position": -2.0
+    },
+    {
+        "name": "B",
+        "fr_name": "Si",
+        "font_char": "C",
+        "staff_position": -1.5
+    },
+    {
+        "name": "C",
+        "fr_name": "Do",
+        "font_char": "D",
+        "staff_position": -1.0
+    },
+    {
+        "name": "C#",
+        "fr_name": "Do#",
+        "font_char": "E",
+        "staff_position": -1.0
+    },
+    {
+        "name": "D",
+        "fr_name": "Ré",
+        "font_char": "F",
+        "staff_position": -0.5
+    },
+    {
+        "name": "D#",
+        "fr_name": "Ré#",
+        "font_char": "G",
+        "staff_position": -0.5
+    },
+    {
+        "name": "E",
+        "fr_name": "Mi",
+        "font_char": "H",
+        "staff_position": 0.0
+    },
+    {
+        "name": "F",
+        "fr_name": "Fa",
+        "font_char": "I",
+        "staff_position": 0.5
+    },
+    {
+        "name": "F#",
+        "fr_name": "Fa#",
+        "font_char": "J",
+        "staff_position": 0.5
+    },
+    {
+        "name": "G",
+        "fr_name": "Sol",
+        "font_char": "K",
+        "staff_position": 1.0
+    },
+    {
+        "name": "G#",
+        "fr_name": "Sol#",
+        "font_char": "L",
+        "staff_position": 1.0
+    },
+    {
+        "name": "A²",
+        "fr_name": "La²",
+        "font_char": "M",
+        "staff_position": 1.5
+    },
+    {
+        "name": "A#²",
+        "fr_name": "La#²",
+        "font_char": "N",
+        "staff_position": 1.5
+    },
+    {
+        "name": "B²",
+        "fr_name": "Si²",
+        "font_char": "O",
+        "staff_position": 2.0
+    },
+    {
+        "name": "C²",
+        "fr_name": "Do²",
+        "font_char": "P",
+        "staff_position": 2.5
+    },
+    {
+        "name": "C#²",
+        "fr_name": "Do#²",
+        "font_char": "Q",
+        "staff_position": 2.5
+    },
+    {
+        "name": "D²",
+        "fr_name": "Ré²",
+        "font_char": "R",
+        "staff_position": 3.0
+    },
+    {
+        "name": "D#²",
+        "fr_name": "Ré#²",
+        "font_char": "S",
+        "staff_position": 3.0
+    },
+    {
+        "name": "E²",
+        "fr_name": "Mi²",
+        "font_char": "T",
+        "staff_position": 3.5
+    },
+    {
+        "name": "F²",
+        "fr_name": "Fa²",
+        "font_char": "U",
+        "staff_position": 4.0
+    }
+]
